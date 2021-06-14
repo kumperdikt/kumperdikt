@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kumperdikt
+- 👀 I’m interested in CGI and VFX
+- 🌱 I’m currently learning Unreal Engine 5
+- 📫 How to reach me IG: kumperdikt
